@@ -167,5 +167,5 @@ This the outcome of the system:
 ## 👤 Author
 
 **Keshav**  
-Computer Vision & Machine Learning Enthusiast  
+Computer Vision & Machine Learning 
 [GitHub](https://github.com/keshav839)
