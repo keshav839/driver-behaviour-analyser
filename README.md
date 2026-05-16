@@ -143,11 +143,13 @@ streamlit run App.py
 ```
 
 **4. Upload a dashcam video and let the system analyse it!**
+```
 This the outcome of the system:
 
 <img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/6fbda844-81a5-4b02-8c9d-5154ce54b23f" />
 <img width="1918" height="898" alt="image" src="https://github.com/user-attachments/assets/02482ce3-a875-4176-86fa-3aa19560363f" />
 
+```
 ## ⚠️ Limitations & Future Work
 
 - Motion analysis uses optical flow which estimates relative movement 
